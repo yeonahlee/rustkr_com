@@ -1,6 +1,6 @@
 import React from 'react';
 
-const app = (prop) => {
+const App = (prop) => {
   return (
     <React.Fragment>
       <p>Hello World</p>
@@ -8,4 +8,4 @@ const app = (prop) => {
   )
 }
 
-export default app;
+export default App;
