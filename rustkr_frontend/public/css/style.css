@@ -1,0 +1,42 @@
+/*
+Design system By EsterKim
+ff : font-family
+fw : font-weight
+fs : font-size
+bg : background
+fg : foreground
+*/
+
+:root { font-family: 'Noto Sans KR', sans-serif; }
+.ff-arvo { font-family: 'Arvo', serif; }
+.ff-hahmlet { font-family: 'Hahmlet', serif; }
+.ff-gowun { font-family: 'Gowun Dodum', sans-serif; }
+
+.fw-thin { font-weight: 100; }
+.fw-ultralight { font-weight: 200; }
+.fw-light { font-weight: 300; }
+.fw-normal { font-weight: 400; }
+.fw-medium { font-weight: 500; }
+.fw-semibold { font-weight: 600; }
+.fw-bold { font-weight: 700; }
+.fw-extrabold { font-weight: 800; }
+.fw-heavy { font-weight: 900; }
+
+.fs-1 { font-size: 1rem; }
+.fs-1\.25 { font-size: 1.25rem; }
+.fs-1\.5 { font-size: 1.5rem; }
+.fs-2 { font-size: 2rem; }
+.fs-2\.5 { font-size: 2.5rem; }
+.fs-3 { font-size: 3rem; }
+.fs-\.8 {font-size: .8rem; }
+
+.bg-black, .bg-b { background-color: black; }
+.bg-white, .bg-w { background-color: white; }
+
+.fg-black, .fg-b { color: black; }
+.fg-white, .fg-w { color: white; }
+
+.container { width: 100%; max-width: 1440px; margin: 0 auto; }
+
+body,h1,h2,h3,h4,h5,h6,p,a { margin: 0; }
+a { text-decoration: none; }
