@@ -1,6 +1,6 @@
 import React from 'react';
-import Router from "./module/Router";
-import Header from "./component/Header";
+import Router from "@module/Router";
+import Header from "@component/common/Header";
 
 const App = (prop) => {
   return (

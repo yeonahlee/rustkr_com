@@ -1,5 +1,5 @@
-import Home from "../page/Home";
-import About from "../page/About";
+import Home from "@page/Home";
+import About from "@page/About";
 import { Routes, Route } from 'react-router-dom';
 
 const Router = () => {
